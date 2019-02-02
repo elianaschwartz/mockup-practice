@@ -99,3 +99,19 @@ footer nav a {
 footer img {
   width: 40%;
 }
+
+/* About Page Styles */
+.about-main {
+  padding: 0 30px;
+}
+
+
+.about {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.about img {
+  height: 200px;
+  padding: 10px;
+}
